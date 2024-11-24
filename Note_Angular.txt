@@ -1,0 +1,14 @@
+
+npm install -g @angular/cli
+
+kiểm tra version của anguler
+ng v
+
+tạo một dự án 
+ng new ten_du_an
+
+chỉ vào dự án đó
+cd dụ_an
+
+để bắt đầu du án
+npm start
